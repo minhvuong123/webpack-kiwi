@@ -47,6 +47,7 @@
 10. copy-webpack-plugin
   install -D copy-webpack-plugin
   => update plugin in webpack.common.js
+  => copy directory to build folder
 
 11. webpack-bundle-analyzer
   install -D yarn add -D webpack-bundle-analyzer
