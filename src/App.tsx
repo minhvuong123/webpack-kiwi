@@ -4,7 +4,6 @@ import LogoSVG from './icons8-react.svg'
 import { ClickCounter } from './ClickCounter'
 
 export const App = () => {
-  const abcd ="asdpaid";
   return (
     <>
       <h1>
