@@ -4,7 +4,7 @@ import LogoSVG from './icons8-react.svg'
 import { ClickCounter } from './ClickCounter'
 
 export const App = () => {
-  const name = 'kiwi'
+  const abcd ="asdpaid";
   return (
     <>
       <h1>
